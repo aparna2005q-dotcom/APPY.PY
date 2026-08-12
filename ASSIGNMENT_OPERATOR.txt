@@ -1,0 +1,10 @@
+﻿#ASSIGNMENT OPERATORS
+a=9
+#a+=9
+#a-=9
+#a*=9
+#a/=9
+#a%=9
+a**=9
+
+print("the value of a is :",a)
