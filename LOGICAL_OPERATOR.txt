@@ -1,0 +1,6 @@
+﻿#LOGICAL OPERATORS
+a=50
+b=60
+print(not(b>a))
+print((a<=b)and(a<b))
+print((a>b)or(a<=b))
